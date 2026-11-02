@@ -49,10 +49,13 @@ A linear temperature profile between the inlets and outlets of both streams forc
 The combined OriginLab plots show the importance of using a UA split decay over each row, rather than a linear temperature profile between the inlets and outlets for both streams, which forces a UA of 850 kW/°C on each row. This is physically not possible, since UA changes on each row when heat transfer takes place between the exhaust gas and the heating oil inside the tubes.
 
 ## Tools
-Microsoft Excel (calculations), OriginLab (plots)
+Microsoft Excel (calculations), riginLab (plots)
+
+## Skils
+Exergy Analysis - Exergy Efficiency - Exergy Destruction - Waste Heat Recovery Unit Modeling and Analysis
 
 ## Notes
 
-Inputs are sanitized or normalized; no confidential plant or vendor data is included.
+Inputs are sanitized; no confidential plant or vendor data is included.
 
 *This repository is only a preview of some results from the model developed in Excel (no workbook is attached).*
