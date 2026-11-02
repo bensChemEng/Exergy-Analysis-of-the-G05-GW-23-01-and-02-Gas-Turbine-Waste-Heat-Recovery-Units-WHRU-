@@ -5,7 +5,7 @@
 <p align="center">
   <img src="Images/figure1_whru_schematic.png" alt="Schematic view of the G05-GW-23-01 and 02 Waste Heat Recovery Units" width="900">
   <br>
-  <em>Figure 1: G05-GW-23-01 and 02 Waste Heat Recovery Units from Booster Gas Compressors, schematic view (not to scale; no design values shown).</em>
+  <em>Figure 1: G05-GW-23-01 and 02 Waste Heat Recovery Units from Booster Gas Compressors, schematic view (not to scale).</em>
 </p>
 
 ## Overview
