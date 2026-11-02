@@ -1,0 +1,1 @@
+# Exergy-Analysis-of-the-G05-GW-23-01-and-02-Gas-Turbine-Waste-Heat-Recovery-Units-WHRU-
