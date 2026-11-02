@@ -35,13 +35,13 @@ A linear temperature profile between the inlets and outlets of both streams forc
 ## Figures
 
 <p align="center">
-  <img src="Images/figure2_row_by_row_comparison.png" alt="Row-by-row linear temperature vs UA split profiles, exergy efficiency and exergy destruction comparison" width="700">
+  <img src="Images/figure2_row_by_row_comparison.png" alt="Row-by-row linear temperature vs UA split profiles, exergy efficiency and exergy destruction comparison" width="900">
   <br>
   <em>Figure 2: Row-by-Row Linear Temperature vs UA Split profiles, Exergy Efficiency (η<sub>ex</sub>) and Exergy Destruction (ΔĖ<sub>destruc</sub>) Comparison.</em>
 </p>
 
 <p align="center">
-  <img src="Images/figure3_combined_comparison.png" alt="Combined row-by-row linear temperature vs UA split profiles, exergy efficiency and exergy destruction comparison" width="700">
+  <img src="Images/figure3_combined_comparison.png" alt="Combined row-by-row linear temperature vs UA split profiles, exergy efficiency and exergy destruction comparison" width="900">
   <br>
   <em>Figure 3: Combined Row-by-Row Linear Temperature vs UA Split profiles, Exergy Efficiency (η<sub>ex</sub>) and Exergy Destruction (ΔĖ<sub>destruc</sub>) Comparison.</em>
 </p>
