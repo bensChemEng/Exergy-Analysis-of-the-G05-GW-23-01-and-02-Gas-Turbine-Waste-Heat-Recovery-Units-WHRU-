@@ -1,3 +1,5 @@
+[English](README.md) | [Deutsch](README.de.md) | [Français](README.fr.md)
+
 # Exergy Analysis of the G05-GW-23-01 and 02 Gas-Turbine Waste Heat Recovery Units (WHRU) from Booster Gas Compressors (Excel), Rhourde-Nouss
 
 **Rhourde-Nouss's Natural Gas Central Processing Facility, Southeastern Algeria**
